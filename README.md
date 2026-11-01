@@ -1,1 +1,2 @@
 # Universities_Funding
+In this project, we examine the financing of universities in various countries, including the United States, the United Kingdom, Germany, Malaysia, Singapore, South Korea, Canada, and Iran. Drawing on credible sources, academic publishers, and the universities' own websites, we analyze how these institutions secure the necessary funding. The requested reports will be in Persian.
